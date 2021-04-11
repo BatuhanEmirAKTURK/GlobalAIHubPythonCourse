@@ -1,5 +1,5 @@
 # GAIH Student Repo Example
-![](img/newlogo.png)
+![](newlogo.png)
 
 **Course Date:** 05.04.2021  
 **Name:** Batuhan Emir 
