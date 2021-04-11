@@ -24,16 +24,6 @@ while True:
                 zero_list.append(i)
         print(zero_list)
 
-
-
     elif selection == "q" or selection == "Q":
         print("\nSigning Out")
         break
-
-
-
-
-
-
-
-    
