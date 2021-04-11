@@ -9,5 +9,4 @@ a , b = mylist[4:] , mylist[:4]
 
 print("\nPerforming swap operation ... Please wait ...")
 
-
 print("\nLatest version of the list\n",a + b)
