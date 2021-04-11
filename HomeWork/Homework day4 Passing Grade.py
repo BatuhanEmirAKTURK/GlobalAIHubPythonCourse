@@ -30,14 +30,12 @@ total_grade =[]
 
 print_total = []
 
-
 while amount <= 4:     
     name = input("\nPlease enter name:")
     midterm = float(input("Enter Midterm Grade:"))
     project = float(input("Enter Project Grade:"))
     final = float(input("Enter Final Grade:"))
     amount +=1
-    
     
     all(name,midterm,project,final)
     
